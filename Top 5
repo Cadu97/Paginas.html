@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>TOP 5 FILMES</title>
+    <style>
+        
+        p {text-align: center; align-items: center}
+        p{
+        color: white;
+       }
+        body{
+            background: url(../Imagens/Background\ Filmes.jpg) 
+        }
+        h1{
+            color: white;
+        }
+
+          img{
+            width: 25%;
+            margin: auto;
+            display: block;
+        }
+        a {
+            font-family: cursive;
+            text-align: center;
+            color: rgb(255, 255, 255);
+        }
+        .Rodape{
+            width: 10%;
+            margin: auto;
+            display: flex;
+        }
+       
+    </style>
+</head>
+
+<body>
+
+    <p>
+        <h1><strong><center>TOP 5 FILMES FAVORITOS</center></strong></h1>
+    </p>
+    
+    <h1><center>1º - Até o Último Homem</center> </h1>
+    <p>O filme conta a história de um médico do exército americano que, durante a Segunda Guerra Mundial, se recusa a pegar em armas. Durante a Batalha de Okinawa ele trabalha na ala médica e salva cerca de 75 homens.</p>
+    <img src="../Imagens/Até o último homem.jpg" alt="Até o Último Homem" height="300px" width="300px">
+    
+    
+    <h1><center>2º - Dois Estranhos</center> </h1>
+    <p>Em Dois Estranhos, o cartunista Carter James está tentando voltar para casa para encontrar seu cachorro depois de um primeiro encontro com uma mulher, porém acaba sendo vítima de um policial racista e é baleado. Para sua surpresa, ao invés de morrer, ele acaba revivendo o dia inteiro novamente como se estivesse em um ciclo vicioso.</p>
+    <img src="../Imagens/Dois estranhos.jpg" alt="Dois Estranhos"  height="300px" width="300px">
+
+    <h1><center>3º - Anjos da Vida - Mais Bravos que o Mar</center> </h1>
+    <p>Um nadador de resgate da Guarda Costeira, que ainda lamenta a perda de sua tripulação em um acidente fatal, dedica sua vida à formação de novos recrutas. Quando encontra o campeão de natação Jake Fischer, ele molda o jovem arrogante e faz dele seu protegido, levando a uma missão nas águas perigosas do Estreito de Bering.</p>
+    <img src="../Imagens/Anjos da vida.jpg" alt="Anjos da Vida"  height="300px" width="300px">
+    
+
+    <h1><center>4º - Sempre ao Seu Lado</center> </h1>
+    <p> Um professor universitário encontra na estação de trem um filhote de cachorro da raça akita, conhecida por sua lealdade. O cão passa a acompanhá-lo até a estação de trem e esperar sua volta. Até que um acontecimento inesperado altera sua vida.</p>
+    <img src="../Imagens/Sempre ao seu lado.jpg" alt="Sempre ao Seu Lado"  height="300px" width="300px">
+
+    <h1><center>5º - Gonzaga - De Pai pra Filho</center> </h1>
+    <p>Decidido a mudar seu destino, Gonzaga sai de casa jovem e segue para cidade grande em busca de novos horizontes e para apagar uma tristeza amorosa. Lá, ele conhece uma bela mulher, por quem se encanta. Após o nascimento do filho e complicações de saúde da esposa, ele decide voltar para a estrada para garantir os estudos e um futuro melhor para o herdeiro. Para isso, deixa o pequeno aos cuidados de amigos no Rio de Janeiro e sai pelo Brasil afora. Só não imaginava que essa distância entre eles faria crescer uma complicada relação, potencializada pelas personalidades fortes de ambos. Baseada em conversas realizadas entre pai e filho, essa é a história do cantor e sanfoneiro Luiz Gonzaga, também conhecido como O Rei do Baião ou Gonzagão, e de seu filho, popularmente chamado de Gonzaguinha.</p>
+    <img src="../Imagens/Gonzaga de Pai pra Filho.gif" alt="Gonzaga"  height="300px" width="300px">
+    
+
+</body>
+</br>
+<footer>
+    <div class="Rodape">
+        <p>Acesse o meu <a target="_blank" href="https://www.linkedin.com/in/carloseduardo97/" rel="next">Linkedin</a></p>
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="height: 15px;">
+    </div>
+    
+    <p>
+        <strong>
+            <small>Carlos Eduardo &copy; </small>
+        </strong>
+    </p>
+</footer>
+</html>
